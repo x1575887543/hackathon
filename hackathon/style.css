@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0；
+}
+html,body{
+	height: 100%;
+}
+img{
+	height: 400px；
+}
+#resume{
+	text-align: center;
+}
